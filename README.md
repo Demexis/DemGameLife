@@ -9,7 +9,7 @@
 в результате чего можно настроить - появляется-ли в начале возможность для пользователя выделять живые ячейки,
 насколько большой размер имеет матрица, сколько времени занимает один ход и т.д.
 
-[ENG]: The project is a cellular automaton by John Conway, written in C ++ using SFML.
+[ENG]: The project is a cellular automaton, written in C ++ using SFML.
 
 A huge part of the code is covered with comments in Russian.
 
